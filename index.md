@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: home
 landing-title: 'Hello!'
 show_tile: false
 ---
