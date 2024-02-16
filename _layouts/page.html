@@ -1,13 +1,13 @@
-<html>
-
-{% include head.html %}
-
+<html> {% include head.html %}
 <body>
-    <script type="text/javascript">document.body.classList.add("is-loading");</script>
 
-    {% include header.html %} {{ content }}
-    <!-- {% include footer.html %} -->
+<script type="text/javascript">
+  document.body.classList.add("is-loading");
+</script>
 
+{% include header.html %}
+{{ content }}
+
+{% include footer.html %}
 </body>
-
 </html>
