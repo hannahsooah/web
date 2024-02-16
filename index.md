@@ -1,7 +1,7 @@
 ---
 layout: home
 title: home
-landing-title: 'Hello!'
+landing-title: 'hello!'
 show_tile: false
 ---
 
