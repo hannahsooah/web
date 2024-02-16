@@ -17,4 +17,5 @@ run `make clean` to remove generated files
 ## things to add later:
 
 * change work image (need to take a nicer pic of my table)
+* add favicon
 * beef up this website idk lol
