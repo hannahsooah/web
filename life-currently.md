@@ -32,8 +32,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
   <section>
-    <a href="generic.html" class="image">
-      <img src="{% link assets/images/pic01.jpg %}" alt="" data-position="center center" />
+    <a href="" class="image">
+      <img src="{% link assets/images/table.jpg %}" alt="" data-position="center center" />
     </a>
     <div class="content">
       <div class="inner">
@@ -50,7 +50,7 @@ nav-menu: true
     </div>
   </section>
   <section>
-    <a href="generic.html" class="image">
+    <a href="" class="image">
       <img src="{% link assets/images/soon.jpg %}" alt="" data-position="top center" />
     </a>
     <div class="content">
@@ -73,7 +73,7 @@ nav-menu: true
     </div>
   </section>
   <section>
-    <a href="generic.html" class="image">
+    <a href="" class="image">
       <img src="{% link assets/images/lhs-sunset.jpg %}" alt="" data-position="25% 25%" />
     </a>
     <div class="content">
