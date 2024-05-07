@@ -38,13 +38,13 @@ nav-menu: true
     <div class="content">
       <div class="inner">
         <header class="major">
-          <h3>church</h3>
+          <h3>church | renewal</h3>
         </header>
-        <p>looking for a church at the moment :')</p>
-        <p>hoping to find somewhere to call home for a while~<br>
-        (and hopefully soon as well bc church hopping isn't great 😫)</p>
+        <p>i've been attending Renewal church and recently became a member! I'm
+        excited to see how God will move in me and through me in this place i've
+        decided to call my spiritual home :)</p>
         <ul class="actions">
-          <!-- <li><a href="generic.html" class="button">hehe button</a></li> -->
+          <li><a href="https://www.renewalsv.org/" class="button">renewal church | sunnyvale</a></li>
         </ul>
       </div>
     </div>
@@ -56,18 +56,15 @@ nav-menu: true
     <div class="content">
       <div class="inner">
         <header class="major">
-          <h3>soon</h3>
+          <h3>summer missions | soon</h3>
         </header>
         <p>SOON Movement Global is a non-profit organization present on college campuses
         working to fulfill the great commission by creating spiritual movements
         everywhere and winning, building, and sending Holy Spirit-filled disciples
         everywhere with the Gospel of Jesus Christ.</p>
-        <p>this spring, i have the blessing of serving in the norcal region with other
-        student leaders, personally focused on building up the Christian body we call
-        community through individual mentorship, group trainings, and corporate worship
-        and prayer times</p>
+        <p>this summer, i have the blessing of going on summer missions to kobe, japan and ministering to college students on two university campuses with my team of uc berekely students! it's such an immense privilege to be called and to be able to go. we'll be in kobe during the month of June, let me know if you'd like to partner with me</p>
         <ul class="actions"><li>
-          <a href="https://www.instagram.com/norcalsoon/" class="button">see what we're up to!</a>
+          <a href="{{ site.url }}/assets/documents/summer-missions-2024.pdf" class="button">read my mission letter here!</a>
         </li></ul>
       </div>
     </div>
@@ -85,7 +82,7 @@ nav-menu: true
         feel free to join me) and simply journaling while enjoying a cup of iced latte.
         i'm also in love with chasing sunsets and sunrises, and always down for an
         adventure if it involves coffee or good views :)</p>
-        <p>hobbies include but are not limited to: crocheting, making music, reading,
+        <p>hobbies include but are not limited to: crocheting, music, reading,
         and talking about exercise (but not quite exercising)</p>
         <ul class="actions"><li>
           <a href="https://maps.app.goo.gl/FVJFirSvpGH7tBCY6" class="button">surprise cafe rec ;)</a>
