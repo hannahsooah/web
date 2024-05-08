@@ -64,7 +64,7 @@ nav-menu: true
         everywhere with the Gospel of Jesus Christ.</p>
         <p>this summer, i have the blessing of going on summer missions to kobe, japan and ministering to college students on two university campuses with my team of uc berekely students! it's such an immense privilege to be called and to be able to go. we'll be in kobe during the month of June, let me know if you'd like to partner with me</p>
         <ul class="actions"><li>
-          <a href="{{ site.url }}/assets/documents/summer-missions-2024.pdf" class="button">read my mission letter here!</a>
+          <a href="{{ site.url }}/japan-missions.pdf" class="button">read my mission letter here!</a>
         </li></ul>
       </div>
     </div>
