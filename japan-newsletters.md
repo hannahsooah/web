@@ -24,12 +24,17 @@ nav-menu: true
           <h3>Kobe Team Newsletters</h3>
 -->
         </header>
-        <!-- <p>Read about our latest updates here!</p> -->
+        <!-- My mission support letter -->
         <ul class="actions">
           <li><a href="{{ site.url }}/japan-missions.pdf" class="button">Pre-missions Support Letter</a></li>
         </ul>
+        <!-- Team update newsletter -->
         <ul class="actions">
           <li><a href="{{ site.url }}/japan-newsletter-1.pdf" class="button">Kobe Team Newsletter 1</a></li>
+        </ul>
+        <!-- My post-missions update -->
+        <ul class="actions">
+          <li><a href="{{ site.url }}/japan-update.pdf" class="button">Personal Post-missions Update</a></li>
         </ul>
       </div>
     </div>
