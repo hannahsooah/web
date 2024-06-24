@@ -2,7 +2,7 @@
 title: japan missions
 layout: landing
 description: 'read about our latest updates here!'
-image: 
+image: assets/images/missions.jpg
 nav-menu: true
 ---
 
