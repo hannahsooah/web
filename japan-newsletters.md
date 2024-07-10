@@ -36,6 +36,10 @@ nav-menu: true
         <ul class="actions">
           <li><a href="{{ site.url }}/japan-update.pdf" class="button">Personal Post-missions Update</a></li>
         </ul>
+        <!-- Team post-missions newsletter -->
+        <ul class="actions">
+          <li><a href="{{ site.url }}/japan-newsletter-2.pdf" class="button">Kobe Team Post-missions Newsletter</a></li>
+        </ul>
       </div>
     </div>
   </section>
