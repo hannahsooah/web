@@ -12,10 +12,10 @@ nav-menu: true
     </header>
     <ul>
       <li>bittersweet by susan cain
-        (<a href="https://a.co/d/6EhQag0">amazon</a>)</li>
+        (<a href="https://a.co/d/6EhQag0">amazon</a>)</li> - recommended by DC about melancholy people
       <li>trauma is really strange by steve haines 
         (<a href="https://a.co/d/2GnaK55">amazon</a> or
-        <a href="https://a.co/d/75mSZQj">the set</a>)</li>
+        <a href="https://a.co/d/75mSZQj">the set</a>)</li> - dense little picture book with good explanations
     </ul>
   </div>
 </section>
