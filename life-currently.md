@@ -38,17 +38,36 @@ nav-menu: true
     <div class="content">
       <div class="inner">
         <header class="major">
-          <h3>church | renewal</h3>
+          <h3>church</h3>
         </header>
-        <p>i've been attending Renewal church and recently became a member! I'm
-        excited to see how God will move in me and through me in this place i've
-        decided to call my spiritual home :)</p>
-        <ul class="actions">
-          <li><a href="https://www.renewalsv.org/" class="button">renewal church | sunnyvale</a></li>
-        </ul>
+        <p>I recently left my previous church and am currently looking for a new place to call my spiritual home :)</p>
       </div>
     </div>
   </section>
+  <section>
+    <a href="" class="image">
+      <img src="{% link assets/images/lhs-sunset.jpg %}" alt="" data-position="25% 25%" />
+    </a>
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>more</h3>
+        </header>
+        <p>outside of these things, i love visiting new cafes by myself (though please,
+        feel free to join me) and simply journaling while enjoying a cup of iced latte.
+        i'm also in love with chasing sunsets and sunrises, and always down for an
+        adventure if it involves coffee or good views :)</p>
+        <p>hobbies include but are not limited to: knitting, music, reading,
+        and talking about exercise (but not quite exercising)</p>
+        <ul class="actions"><li>
+          <a href="https://maps.app.goo.gl/FVJFirSvpGH7tBCY6" class="button">surprise cafe rec ;)</a>
+        </li></ul>
+      </div>
+    </div>
+  </section>
+</section>
+
+<!-- Summer/Short term missions
   <section>
     <a href="" class="image">
       <img src="{% link assets/images/soon.jpg %}" alt="" data-position="top center" />
@@ -69,28 +88,7 @@ nav-menu: true
       </div>
     </div>
   </section>
-  <section>
-    <a href="" class="image">
-      <img src="{% link assets/images/lhs-sunset.jpg %}" alt="" data-position="25% 25%" />
-    </a>
-    <div class="content">
-      <div class="inner">
-        <header class="major">
-          <h3>more</h3>
-        </header>
-        <p>outside of these things, i love visiting new cafes by myself (though please,
-        feel free to join me) and simply journaling while enjoying a cup of iced latte.
-        i'm also in love with chasing sunsets and sunrises, and always down for an
-        adventure if it involves coffee or good views :)</p>
-        <p>hobbies include but are not limited to: crocheting, music, reading,
-        and talking about exercise (but not quite exercising)</p>
-        <ul class="actions"><li>
-          <a href="https://maps.app.goo.gl/FVJFirSvpGH7tBCY6" class="button">surprise cafe rec ;)</a>
-        </li></ul>
-      </div>
-    </div>
-  </section>
-</section>
+-->
 
 <!-- Three
 <section id="three">

@@ -4,6 +4,7 @@ layout: landing
 description: 'read about our latest updates here!'
 image: assets/images/missions.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->

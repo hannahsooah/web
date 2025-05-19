@@ -8,19 +8,24 @@ nav-menu: true
 <section id="one">
   <div class="inner">
     <header class="major">
-      <h3>yarn!</h3>
+      <h3>knitting!</h3>
+    the proverbs 31 woman seeks wool and flax, and works with willing hands (v.13)
     </header>
-    the proverbs 31 woman seeks wool and flax, and works with willing hands (v.13)<br>
-    I prefer wool to flax (linen), but both are nice! and other yarns too hehe<br><br>
-    a sweater takes ~1300-1500 meters of yarn (which is a lot unfortunately) but i promise to use it
     <ul>
-    <li>I want to try yarn from <a href="https://knittingforolive.com/">knitting for olive</a>! It's really popular but... kinda expensive and I've never used it </li>
-    <li>I also find myself a regular at <a href="https://maps.app.goo.gl/nGEVTyMr4ThExT7M6">Uncommon Threads</a> and <a href="https://maps.app.goo.gl/C1R3R54fgKYEphGV8">Fillory Yarn</a> for local yarn store options ^^</li>
-    </ul>
-
-    patterns:
-    <ul>
-    <li>I want the <a href="https://www.petiteknit.com/en/products/monday-sweater">Monday Sweater</a> pattern to make as a basic piece in my wardrobe</li>
+    <li>14 balls of <a href="https://lindehobby.com/stex-503/stex-lttlopi-p1779">ístex léttlopi</a> in white (colorway 0051) for my next project</li>
+    <li><a href="https://knittingforolive.com/">knitting for olive</a> is a good online yarn store ;)</li>
+    <li><a href="https://www.ozettaknitwear.com/patterns/p/winters-pullover-knitting-pattern">winters pullover pattern</a> by ozetta</li>
     </ul>
   </div>
+    <header class="major">
+      <h3>home</h3>
+    </header>
+    <ul>
+    <li>this <a href="https://a.co/d/bXPcdyy">corner shelf</a> from amazon</li>
+    <li>an  <a href="https://www.ikea.com/us/en/p/fado-table-lamp-white-70096377/">ikea fado lamp</a> (yes, I fell into this hole)</li>
+    <li>a chaise lounge without arm rests -- I just really like chilling on them</li>
+    <li>a cordless vacuum</li>
+    <li>a kitchen scale -- for food and yarn ;)</li>
+    <li>an <a href="https://owalalife.com/products/freesip?Color=Shy+Marshmallow&Material=Stainless+Steel&Size=24oz&selectionType=local">owala bottle</a>... yes I don't need it, and yes I want it </li>
+    </ul>
 </section>
