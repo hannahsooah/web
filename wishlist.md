@@ -27,5 +27,11 @@ nav-menu: true
     <li><a href="https://knittingforolive.com/">knitting for olive</a> is a good online yarn store ;)</li>
     <li><a href="https://www.ozettaknitwear.com/patterns/p/winters-pullover-knitting-pattern">winters pullover pattern</a> by ozetta</li>
     </ul>
+    <header class="major">
+      <h3>books</h3>
+    </header>
+    <ul>
+    <li>the <a href="https://www.amazon.com/dp/B074CHTDVH?binding=hardcover&ref=dbs_m_mng_rwt_sft_thcv_tpbk&qid=1749943338&sr=1-1">earth girl series</a> by janet edwards -- a childhood favorite that I've read at least once a year since middle school. I'd like a hard copy of this to keep</li>
+    </ul>
   </div>
 </section>
