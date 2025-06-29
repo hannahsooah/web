@@ -25,7 +25,6 @@ nav-menu: true
     </header>
     <ul>
     <li><a href="https://knittingforolive.com/">knitting for olive</a> is a good online yarn store ;)</li>
-    <li><a href="https://www.ozettaknitwear.com/patterns/p/winters-pullover-knitting-pattern">winters pullover pattern</a> by ozetta</li>
     </ul>
     <header class="major">
       <h3>books</h3>
