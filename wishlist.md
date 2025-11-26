@@ -9,14 +9,15 @@ nav-menu: true
   <div class="inner">
     <header class="major">
       <h3>home</h3>
+      in no particular order
     </header>
     <ul>
-    <li>this <a href="https://a.co/d/bXPcdyy">corner shelf</a> from amazon</li>
-    <li>an  <a href="https://www.ikea.com/us/en/p/fado-table-lamp-white-70096377/">ikea fado lamp</a> (yes, I fell into this hole)</li>
+    <!-- <li>this <a href="https://a.co/d/bXPcdyy">corner shelf</a> from amazon</li> -->
+    <li>cute/minimal book ends</li>
+    <li>an  <a href="https://www.ikea.com/us/en/p/fado-table-lamp-white-70096377/">ikea fado lamp</a> (I've been falling into little lamps)</li>
     <li><a href="https://a.co/d/aj3RseV">splendor</a>, a board game</li>
+    <li>a good tire pump; since I got two flat tires in 2025 :(</li>
     <li>a <a href="https://a.co/d/bDBPNOz">sunrise alarm clock</a> -- it doesn't have to be this one</li>
-    <li>a chaise lounge without arm rests -- I just really like chilling on them</li>
-    <li>a cordless vacuum</li>
     <li>an <a href="https://owalalife.com/products/freesip?Color=Shy+Marshmallow&Material=Stainless+Steel&Size=24oz&selectionType=local">owala bottle</a>... yes I don't need it, and yes I want it </li>
     </ul>
     <header class="major">
@@ -24,7 +25,8 @@ nav-menu: true
     the proverbs 31 woman seeks wool and flax, and works with willing hands (v.13)
     </header>
     <ul>
-    <li><a href="https://knittingforolive.com/">knitting for olive</a> is a good online yarn store ;)</li>
+    <li><a href="https://knittingforolive.com/">knitting for olive</a> is a good online yarn store ;) I want to try using their Merino or Heavy Merino!</li>
+    <li>the <a href="https://www.ravelry.com/patterns/library/porcelain-sweater">porcelain sweater pattern</a>!! -- I'm so excited to start this project this winter</li>
     </ul>
     <header class="major">
       <h3>books</h3>
