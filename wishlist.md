@@ -13,6 +13,7 @@ nav-menu: true
     </header>
     <ul>
     <!-- <li>this <a href="https://a.co/d/bXPcdyy">corner shelf</a> from amazon</li> -->
+    <li>a <a href="https://comfrt.com/products/travel-hoodie?variant=44347028308012">comfrt hoodie</a> in a light color (I've been subject to targeted marketing)</li>
     <li>cute/minimal book ends</li>
     <li>an  <a href="https://www.ikea.com/us/en/p/fado-table-lamp-white-70096377/">ikea fado lamp</a> (I've been falling into little lamps)</li>
     <li>another <a href="https://www.target.com/p/milky-glass-wooden-wick-coastal-wind-and-lavender-jar-candle-8oz-threshold-8482/-/A-90043285?sid=2088S&TCID=PDS-336241249&gclsrc=aw.ds&ds_rl=1246978&ds_rl=1247068&gad_source=1&gad_campaignid=336241249&gbraid=0AAAAAD-5dfaImAIx92q6Hb8fmRKtfa9gV&gclid=CjwKCAiA55rJBhByEiwAFkY1QPY4ACrGYOplyC4hdawv0vQ3ss5lawuH_GDKsG6Yxp0Utk4SA5fccBoCzdIQAvD_BwE">candle with a crackling wood wick</a> because I finished the previous one I purchased!</li>
